@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">google-guide</string>
+    <string name="roll">roll</string>
+    <string name="dice_rolled">Dice Rolled!</string>
 </resources>
